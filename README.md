@@ -1,5 +1,7 @@
 # THREE.js Projects
 
-Projects done in THREE.js for fun
+## List of Projects
 
-#### Created by Keenan McConkey
+* Cube
+
+*Created by Keenan McConkey*
